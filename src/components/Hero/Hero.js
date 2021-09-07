@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+
 import React from 'react';
 import styles from './Hero.scss';
 import PropTypes from 'prop-types';
@@ -11,7 +13,7 @@ const Hero = props => (
 );
 
 Hero.propTypes = {
-    titleText: PropTypes.node.isRequired,
-  };
+  titleText: PropTypes.node.isRequired,
+};
 
 export default Hero;
