@@ -1,0 +1,59 @@
+[33mcommit 4f77e5173c78eb8f6df82edb38678e4a92d52ffb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Antek <marmaros987@gmail.com>
+Date:   Tue Sep 7 02:50:00 2021 +0200
+
+    Add ESLint and husky
+
+[33mcommit 3a795d914a27e98dc3f9c8e4704cb82e1cbea06a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Antek <marmaros987@gmail.com>
+Date:   Tue Sep 7 00:38:55 2021 +0200
+
+    add Cart, create state in Column, use Icon
+
+[33mcommit 0b9b60a5ec2050b5c9a80df2d2d8347fe6f70262[m
+Author: Antek <marmaros987@gmail.com>
+Date:   Mon Sep 6 23:58:34 2021 +0200
+
+    add new files & modify state
+
+[33mcommit cecc29d644cfb4d2c09b262190b6c8acec34f274[m
+Author: Antek <marmaros987@gmail.com>
+Date:   Mon Sep 6 23:44:42 2021 +0200
+
+    add component's state
+
+[33mcommit 56a955f29818f46bac7e3571b541c9794aa6940c[m
+Author: Antek <marmaros987@gmail.com>
+Date:   Mon Sep 6 23:36:43 2021 +0200
+
+    add parser to List && Hero
+
+[33mcommit 753644af73d107adbadcf84155364de0b27841d3[m
+Author: Antek <marmaros987@gmail.com>
+Date:   Fri Sep 3 10:59:11 2021 +0200
+
+    add Column's component and move img'src to App.js
+
+[33mcommit e50b9fc233e08f95cd07aaf8483262dd364ebbcb[m
+Author: Antek <marmaros987@gmail.com>
+Date:   Fri Sep 3 10:53:57 2021 +0200
+
+    add List.js & Hero.js
+
+[33mcommit 9ed5f1a91f25dd6cfeab428359c66417aed6659f[m
+Author: Antek <marmaros987@gmail.com>
+Date:   Fri Sep 3 10:48:52 2021 +0200
+
+    change in App.js
+
+[33mcommit d5c59a1748d9b8045b01fb0e12f0c806a73a13ff[m
+Author: Antek <marmaros987@gmail.com>
+Date:   Fri Sep 3 10:43:26 2021 +0200
+
+    install package
+
+[33mcommit e9d17c1c9b9ad0eebc5fbc6f6128b339b508a6e1[m
+Author: Marc-O-Antonio <83764223+Marc-O-Antonio@users.noreply.github.com>
+Date:   Fri Sep 3 10:31:49 2021 +0200
+
+    Initial commit

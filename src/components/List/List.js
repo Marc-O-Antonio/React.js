@@ -1,4 +1,4 @@
-/* eslint-disable react/prop-types */
+
 
 import React from 'react';
 import styles from './List.scss';
@@ -17,6 +17,7 @@ class List extends React.Component {
       title: PropTypes.node.isRequired,
       description: PropTypes.node,
       columns: PropTypes.array,
+      image: PropTypes.string,
     }
 
     static defaultProps = {
