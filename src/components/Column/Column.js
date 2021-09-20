@@ -13,6 +13,7 @@ class Column extends React.Component {
         cards: PropTypes.array,  
         title: PropTypes.string.isRequired,
         icon: PropTypes.string,
+        addCard: PropTypes.func,
       }
 
       static defaultProps = {
@@ -21,7 +22,7 @@ class Column extends React.Component {
       
       render() {
 
-        const {title, icon, cards} = this.props;
+        const {title, icon, cards, addCard} = this.props;
 
 
         return (
@@ -37,9 +38,9 @@ class Column extends React.Component {
                 <Card key={cardData.id} {...cardData} />
               ))} 
             </div>
-            <div className={styles.creator}>
-              <Creator text={settings.cardCreatorText} action={title => this.addCard(title)}/>
-            </div>
+            { <div className={styles.creator}>
+              <Creator text={settings.cardCreatorText} action={addCard} />
+            </div> }
           </section>
         );
       }
